@@ -9,3 +9,7 @@ def enterB():
 
 def plus():
 	print(A + B)
+
+def minus():
+	print(A - B)
+
