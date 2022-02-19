@@ -7,5 +7,5 @@ def enterA():
 def enterB():
 	B = inp
 
-def div():
-	print(A / B)
+def plus():
+	print(A + B)
