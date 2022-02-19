@@ -4,5 +4,8 @@ inp = input('')
 def enterA():
 	A = inp
 
+def enterB():
+	B = inp
+
 def div():
 	print(A / B)
