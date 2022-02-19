@@ -3,3 +3,6 @@ inp = input('')
 
 def enterA():
 	A = inp
+
+def minus():
+	print(A - B)
