@@ -13,3 +13,5 @@ def plus():
 def minus():
 	print(A - B)
 
+def mul():
+	print(A * B)
