@@ -15,3 +15,6 @@ def minus():
 
 def mul():
 	print(A * B)
+
+def div():
+	print(A / B)
